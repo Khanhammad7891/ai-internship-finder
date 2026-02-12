@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Problem
+##  Problem
 
 Students repeatedly apply to internships they are not realistically eligible for due to:
 - Inflated job descriptions
@@ -16,7 +16,7 @@ This leads to rejection cycles and wasted effort.
 
 ---
 
-## 💡 Solution
+##  Solution
 
 AI Internship Finder uses explainable AI to:
 
@@ -29,7 +29,7 @@ AI Internship Finder uses explainable AI to:
 
 ---
 
-## 🧠 Core Innovation
+##  Core Innovation
 
 We don’t show dream internships.  
 We show internships you can actually get — and how to level up.
@@ -44,7 +44,7 @@ Detailed design: `/docs/design.md`
 
 ---
 
-## 📊 Key Features
+##  Key Features
 
 - AI-powered resume skill extraction
 - Skill Readiness Scoring
@@ -55,7 +55,7 @@ Detailed design: `/docs/design.md`
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 Frontend: React / Next.js  
 Backend: FastAPI / Node.js  
@@ -65,7 +65,7 @@ Hosting: AWS / Vercel
 
 ---
 
-## 📌 Impact (India-Focused)
+##  Impact (India-Focused)
 
 - Designed for Tier-2 & Tier-3 students
 - Reduces rejection cycles
@@ -74,7 +74,7 @@ Hosting: AWS / Vercel
 
 ---
 
-## 📈 Future Scope
+##  Future Scope
 
 - Multilingual support
 - Regional internship datasets
@@ -83,14 +83,14 @@ Hosting: AWS / Vercel
 
 ---
 
-## 📄 Documentation
+##  Documentation
 
 - Requirements: `/docs/requirements.md`
 - System Design: `/docs/design.md`
 
 ---
 
-## 👥 Team
+##  Team
 
 **The_laxy-coderxx**  
 Team Lead: Khan Hammad Raza
