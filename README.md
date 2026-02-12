@@ -36,7 +36,7 @@ We show internships you can actually get — and how to level up.
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 User → Resume Parser → Skill Engine → JD Analyzer → Matching Engine → Roadmap Generator → Dashboard
 
